@@ -1,4 +1,10 @@
 ---
 label: template1
 hide_body: false
-fields: []
+fields:
+- name: '1'
+  type: text
+  config:
+    required: false
+  label: '1'
+  description: '111111'
